@@ -7,7 +7,7 @@
     "BannerAds":"bb",
     "InterstitialAds":"min",
     "NativeAds":"bb",
-    "RewardAds":"min",
+    "RewardAds":"bb",
     "AdmobAppID":"ca-app-pub-3940256099942544~3347511713",
     "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
     "AdmobReward":"xxxxxxxxxxx",
